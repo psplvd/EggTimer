@@ -63,12 +63,12 @@
 				0AD0EB642986D1420060BDF2 /* AppDelegate.swift */,
 				0AD0EB662986D1420060BDF2 /* SceneDelegate.swift */,
 				0AD0EB682986D1420060BDF2 /* ViewController.swift */,
-				0AD0EB7C2986E26B0060BDF2 /* .gitignore */,
 				0AD0EB6A2986D1420060BDF2 /* Main.storyboard */,
 				0AD0EB6D2986D1440060BDF2 /* Assets.xcassets */,
 				0AD0EB6F2986D1440060BDF2 /* LaunchScreen.storyboard */,
 				0AD0EB722986D1440060BDF2 /* Info.plist */,
 				0AD0EB7A2986DFA90060BDF2 /* alarm_sound.mp3 */,
+				0AD0EB7C2986E26B0060BDF2 /* .gitignore */,
 			);
 			path = EggTimer;
 			sourceTree = "<group>";
