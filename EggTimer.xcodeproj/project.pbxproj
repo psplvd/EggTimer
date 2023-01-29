@@ -14,6 +14,7 @@
 		0AD0EB6E2986D1440060BDF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AD0EB6D2986D1440060BDF2 /* Assets.xcassets */; };
 		0AD0EB712986D1440060BDF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AD0EB6F2986D1440060BDF2 /* LaunchScreen.storyboard */; };
 		0AD0EB7B2986DFA90060BDF2 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AD0EB7A2986DFA90060BDF2 /* alarm_sound.mp3 */; };
+		0AD0EB7D2986E26B0060BDF2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0AD0EB7C2986E26B0060BDF2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0AD0EB702986D1440060BDF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AD0EB722986D1440060BDF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AD0EB7A2986DFA90060BDF2 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = SOURCE_ROOT; };
+		0AD0EB7C2986E26B0060BDF2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				0AD0EB642986D1420060BDF2 /* AppDelegate.swift */,
 				0AD0EB662986D1420060BDF2 /* SceneDelegate.swift */,
 				0AD0EB682986D1420060BDF2 /* ViewController.swift */,
+				0AD0EB7C2986E26B0060BDF2 /* .gitignore */,
 				0AD0EB6A2986D1420060BDF2 /* Main.storyboard */,
 				0AD0EB6D2986D1440060BDF2 /* Assets.xcassets */,
 				0AD0EB6F2986D1440060BDF2 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AD0EB7D2986E26B0060BDF2 /* .gitignore in Resources */,
 				0AD0EB712986D1440060BDF2 /* LaunchScreen.storyboard in Resources */,
 				0AD0EB6E2986D1440060BDF2 /* Assets.xcassets in Resources */,
 				0AD0EB7B2986DFA90060BDF2 /* alarm_sound.mp3 in Resources */,
